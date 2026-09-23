@@ -1,4 +1,4 @@
-<!-- Done by M N Alam Siddiqui -->
+Done by M N Alam Siddiqui
 # Garibook Homepage Clone
 
 A responsive frontend clone of the Garibook homepage, built using React and Vite. The project includes an animated Hero section, interactive service tabs, a booking form interface, and smooth scrolling features.
