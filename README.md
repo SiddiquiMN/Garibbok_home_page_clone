@@ -44,10 +44,9 @@ npm --version
 Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/garibook-clone.git
+git clone https://github.com/SiddiquiMN/Garibbok_home_page_clone.git
 ```
 
-Replace `YOUR_USERNAME` with the actual GitHub username.
 
 Alternatively, download the repository as a ZIP file from GitHub and extract it.
 
@@ -73,9 +72,9 @@ npm run dev
 
 Vite will display a local URL in the terminal, usually:
 
-```text
+text
 http://localhost:5173/
-```
+
 
 Open the URL shown in your terminal using a web browser.
 
@@ -85,23 +84,21 @@ To stop the development server, press `Ctrl + C` in the terminal.
 
 To generate an optimized production build, run:
 
-```bash
+bash
 npm run build
-```
 
 The production-ready files will be generated in the `dist` folder.
 
 To preview the production build locally, run:
 
-```bash
+bash
 npm run preview
-```
 
 Open the URL displayed in the terminal.
 
 ## Project Structure
 
-```text
+
 garibook-clone/
 ├── public/              # Public assets
 ├── src/
@@ -113,7 +110,7 @@ garibook-clone/
 ├── package.json
 ├── package-lock.json
 └── README.md
-```
+
 
 ## Important Notes
 
