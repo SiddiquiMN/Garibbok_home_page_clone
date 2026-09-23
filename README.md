@@ -53,7 +53,7 @@ Alternatively, download the repository as a ZIP file from GitHub and extract it.
 ### 2. Open the project folder
 
 ```bash
-cd garibook-clone
+cd Garibbok_home_page_clone
 ```
 
 ### 3. Install dependencies
@@ -72,9 +72,9 @@ npm run dev
 
 Vite will display a local URL in the terminal, usually:
 
-text
+```text
 http://localhost:5173/
-
+```
 
 Open the URL shown in your terminal using a web browser.
 
@@ -84,21 +84,21 @@ To stop the development server, press `Ctrl + C` in the terminal.
 
 To generate an optimized production build, run:
 
-bash
+```bash
 npm run build
-
+```
 The production-ready files will be generated in the `dist` folder.
 
 To preview the production build locally, run:
 
-bash
+```bash
 npm run preview
-
+```
 Open the URL displayed in the terminal.
 
 ## Project Structure
 
-
+```text
 garibook-clone/
 ├── public/              # Public assets
 ├── src/
@@ -110,7 +110,7 @@ garibook-clone/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 
 ## Important Notes
 
