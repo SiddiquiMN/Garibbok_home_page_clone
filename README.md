@@ -44,7 +44,7 @@ npm --version
 Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/SiddiquiMN/Garibbok_home_page_clone.git
+git clone https://github.com/SiddiquiMN/Garibook_home_page_clone.git
 ```
 
 
