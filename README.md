@@ -53,7 +53,7 @@ Alternatively, download the repository as a ZIP file from GitHub and extract it.
 ### 2. Open the project folder
 
 ```bash
-cd Garibbok_home_page_clone
+cd Garibook_home_page_clone
 ```
 
 ### 3. Install dependencies
